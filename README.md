@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[LinkedIn][linkedin-shield][linkedin-url]
 
 
 
@@ -13,10 +13,6 @@
   </a>
 
   <h3 align="center">Data structure and algorithms in Java</h3>
-
-  <p align="center">
-    Data structures and algorithms exercises in java
-    <br />
   </p>
 </div>
 
@@ -24,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+[Product Name Screen Shot][product-screenshot]
 
 In this repository you can find examples of data structure exercises solved in java and some of the main algorithms that every programmer should know..
 
@@ -90,7 +86,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@luisPerezCont](https://twitter.com/luisPerezCont) - luisperezcontreras@gmail.com
+About me - [@luisPerezCont](https://twitter.com/luisPerezCont) - luisperezcontreras@gmail.com
 
 linkedin: [Luis Perez Contreras](https://www.linkedin.com/in/luis-perez-contreras-56a67964/)
 
