@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[! [Product Name Screen Shot][product-screenshot] ]
+[![Product Name Screen Shot][product-screenshot]]
 
 In this repository you can find examples of data structure exercises solved in java and some of the main algorithms that every programmer should know..
 
